@@ -1,1 +1,0 @@
-import{C as r,D as t,V as o,W as a}from"./index-BnkDN4mx.js";import{_}from"./useApi-CUWMwLLw-C2y1IAZr.js";var u=t({__name:"reload",setup(n){const e=_();return o(()=>{e.go(-1)}),(s,p)=>(a(),r("div"))}}),c=u;export{c as default};
